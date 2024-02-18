@@ -9,3 +9,5 @@ if(leap_checker == 1 ):
 else:
     print(lc,"is not Leap year ❌")
 
+print("Edit Done")
+
